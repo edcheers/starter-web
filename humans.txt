@@ -4,6 +4,8 @@
 # TEAM
 
     Edmund Lee	elee@central1.com @edhcheers
+	Owennie Lee owennie@gmail.com @owennie
+	
 	<name> -- <role> -- <twitter>
 
 # THANKS
@@ -15,3 +17,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	Angular2????? 
