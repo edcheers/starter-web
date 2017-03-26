@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Edmund Lee	elee@central1.com @edhcheers
+	<name> -- <role> -- <twitter>
 
 # THANKS
 
