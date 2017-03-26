@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-This is an example to show how to contribute. 
+This is an example to show how to contribute. Please fork this repository and issue Pull request for review
 ## Deployment
 
 This is the details about deployment
