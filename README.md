@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 This is an example to show how to contribute. 
 ## Deployment
+
+This is the details about deployment
+
+## Q&A Section
