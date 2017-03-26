@@ -6,6 +6,8 @@
     Edmund Lee	elee@central1.com @edhcheers
 	Owennie Lee owennie@gmail.com @owennie
 		Cassandra Lee cass@gmail.com @Casslee
+		ALexis Lee
+		
 	<name> -- <role> -- <twitter>
 
 # THANKS
