@@ -14,3 +14,7 @@ This is an example to show how to contribute.
 This is the details about deployment
 
 ## Q&A Section
+
+## Copyright
+
+2017 Git.Training
